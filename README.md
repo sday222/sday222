@@ -6,7 +6,7 @@ I lead Revenue Operations at [SourceDay](https://www.sourceday.com) where I focu
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/dayseanm)<br>
 [Follow my Salesforce journey](https://trailblazer.me/id/sday)<br>
-[View my Personal Website](https://www.seanday.me)
+[View my Personal Website](https://seanday.me)
 
 <!--
 **sday222/sday222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
