@@ -1,4 +1,12 @@
-### Hi there 👋
+🐻‍❄️
+
+Hi! I'm Sean.
+
+I lead Revenue Operations at [SourceDay](https://www.sourceday.com) where I focus on building scalable efficient systems that power our Sales and Marketing engines. If you're in Denver, let's grab coffee!
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/dayseanm)<br>
+[Follow my Salesforce journey](https://trailblazer.me/id/sday)<br>
+[View my Personal Website](https://www.seanday.me)
 
 <!--
 **sday222/sday222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
