@@ -2,7 +2,7 @@
 
 Hi! I'm Sean.
 
-I lead Revenue Operations at [SourceDay](https://www.sourceday.com) where I focus on building scalable efficient systems that power our Sales and Marketing engines. If you're in Denver, let's grab coffee!
+I lead Revenue Operations at [Greenlight Guru](https://www.greenlight.guru) where I focus on building scalable, efficient systems that power our GTM and Customer engines. If you're in Denver, let's grab coffee!
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/dayseanm)<br>
 [Follow my Salesforce journey](https://trailblazer.me/id/sday)<br>
